@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WindowProject\WindowProject\bin\Debug\netcoreapp3.1\WindowProject.exe
+C:\Users\User\source\repos\WindowProject\WindowProject\bin\Debug\netcoreapp3.1\WindowProject.deps.json
+C:\Users\User\source\repos\WindowProject\WindowProject\bin\Debug\netcoreapp3.1\WindowProject.runtimeconfig.json
+C:\Users\User\source\repos\WindowProject\WindowProject\bin\Debug\netcoreapp3.1\WindowProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\WindowProject\WindowProject\bin\Debug\netcoreapp3.1\WindowProject.dll
+C:\Users\User\source\repos\WindowProject\WindowProject\bin\Debug\netcoreapp3.1\WindowProject.pdb
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.Form1.resources
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.AssemblyInfo.cs
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.dll
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.pdb
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.genruntimeconfig.cache
+C:\Users\User\source\repos\WindowProject\WindowProject\obj\Debug\netcoreapp3.1\WindowProject.csprojAssemblyReference.cache
